@@ -1,0 +1,6 @@
+total 13K
+-rw-r--r-- 1 Owner None    0 Oct 17 10:46 snapshotLearnPythonTheHardWay.txt
+-rw-r--r-- 1 Owner None 1.9K Jun 15  2013 jaysDictionary.py
+-rw-r--r-- 1 Owner None 1.6K Jun 15  2013 dictionaryEx49.py
+-rw-r--r-- 1 Owner None 2.3K Jun 14  2013 oop_test.py
+-rw-r--r-- 1 Owner None   50 Jun 13  2013 readme.txt
